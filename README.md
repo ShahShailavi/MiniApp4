@@ -10,5 +10,5 @@ ViewModel:
 Data Binding:
     Modify the fragment or activity to create the ViewModel object, inflate the layout and retrieve the binding, and assign the ViewModel object to a property in the binding class.
     
-By Professor Kenytt Avery @ProfAvery #CPSC411    
+Under Professor Kenytt Avery @ProfAvery #CPSC411    
     
